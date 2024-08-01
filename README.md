@@ -1,2 +1,3 @@
-# Daniel_Marques
-Anotações referentes a trilha de conhecimento Data_Science 
+# 📚 Minha Trilha De Conhecimento Data Science
+Estagiario: Daniel Marques De Melos Asiático
+
