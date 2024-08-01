@@ -1,2 +1,2 @@
 # Daniel_Marques
-Relatório sobre a Trilha de conhecimentos Data_Science 
+Anotações referentes a trilha de conhecimento Data_Science 
