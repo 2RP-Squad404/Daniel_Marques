@@ -14,6 +14,8 @@ O estudo dessa semana está sendo direcionado a área de Git, que serve como uma
 
 O Gitflow seria um modelo que serve como um fluxo de trabalho, ele ajuda a simplificar o uso de versionamento de ramificação dos projetos desenvolvidos no Git, ele pode ser introduzido em qualquer projeto de software atribuindo funções para suas diferentes ramificações e quando sera interagida, o GitFlow vai funcionar com ramificações das (branches) divididas em 3 tipos: main,develop e as Features que podem ser excluidas depois que eu fazer o uso.
 
+Hoje em minha trilha de estudos é focada em como funciona os codigos, como sobe eles em meus repositorios, comando basicos de git, assistir o curso da Udemy sobre: inicialização de repositorios, usar o editor do terminal, visualização dos logs, repositorios remotos. Então no dia de hoje 02/08 vou focar nessas aulas para me aperfeiçoar nisso
+
 ## Trilha de Aprendizagem
 
 **Objetivo da Trilha:**  
