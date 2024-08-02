@@ -2,7 +2,7 @@
 
 **Nome do Estagiário:** Daniel Marques De Melos Asiático
 
-**Data:** 01/08/2024
+**Data:** 02/08/2024
 
 ## Assuntos Vistos
 
@@ -30,4 +30,4 @@ Eu espero que com a trilha de git esclareça para mim melhor esse assunto, pois 
 O maior desafio mesmo encontrado, foi fazer entrar o conteudo na mente
 
 **Próximos Passos:**  
-Vou continuar focando mais no Git, até pelo menos ter uma boa base 
+Hoje o foco vai ser ce aprofundar mais no assunto do Git e Gitflow
