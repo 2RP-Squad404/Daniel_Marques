@@ -1,0 +1,36 @@
+# Relatório de Estudos
+
+**Nome do Estagiário:** Daniel Marques De Melos Asiático
+
+**Data:** 13/08/2024
+
+## Assuntos Vistos
+
+- Linguagens e Frameworks
+- Mensageria
+- Virtualização
+
+## O Que Entendi
+
+Python pode ser considerada uma linguagem simples e de alto nível com grande legibilidade, e também tem uma característica de um design mais limpo e intuitivo, o principal objetivo pelo qual o python foi criado é para ser fácil para ler e escrever fácil para os iniciantes e uma grande ferramenta para os que já se consideram mais experientes. Uma grande caracteristica seria sua grande coleção de bibliotecas e frameworks, estamos vendo a Pandas por enquanto, 
+
+## Trilha de Aprendizagem
+
+**Objetivo da Trilha:**  
+Me aprofundar ainda mais nesses assuntos e adquirir um melhor conhecimento 
+
+**Módulos/Etapas Feitas:**  
+1.  **[Módulo/Etapa 1]:** Linguagens e Frameworks
+2.  **[Módulo/Etapa 2]:** Mensageria
+3.  **[Módulo/Etapa 3]:** Virtualização
+
+**Recursos Utilizados:**  
+- []()
+ 
+- []()
+
+**Desafios Encontrados:**  
+O maior desafio mesmo encontrado, foi absorver todo o conteúdo 
+
+**Próximos Passos:**  
+Aprofundamento do conteúdo 
